@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World, I'm Ramanda Rafky👋
+
+![Ramanda Rafky](aset/1.jpg)
 
 <!--
 **ramandarafky/ramandarafky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Telkom University 0f Surabaya**
+- 🌱 I’m currently learning [**picoCTF**](https://picoCTF.com)
+- 
