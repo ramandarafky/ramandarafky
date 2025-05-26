@@ -50,3 +50,14 @@
 [![](https://visitcount.itsvg.in/api?id=ramandarafky&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">Play game with me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramandarafky/ramandarafky/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramandarafky/ramandarafky/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ramandarafky/ramandarafky/output/pacman-contribution-graph.svg">
+</picture>
+
+###
